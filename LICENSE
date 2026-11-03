@@ -1,0 +1,45 @@
+Newsora License (MIT with Attribution)
+
+Copyright (c) 2026 Mohsen Al-Taie (@K0_MG)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+2. Attribution. Any redistribution of the Software, in source or modified
+   form, and any bot or service built from or based on it, must give visible
+   credit to the original author, for example:
+
+       Based on Newsora by Mohsen Al-Taie (@K0_MG)
+       https://github.com/zt-tb/Newsora
+
+   The credit must appear in the project's README (or equivalent
+   documentation) and in the user-facing help or about text of any deployed
+   bot or service. Existing credit lines in the source code and in the bot's
+   messages must not be removed.
+
+3. You may not claim to be the original author of the Software, and you may
+   not use the author's name, handles or the name "Newsora" to suggest that
+   your product is endorsed by or affiliated with the author.
+
+Third-party components used by this project (for example Kurigram, Telethon,
+deep-translator and FFmpeg) remain under their own licenses.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Contact:
+  Telegram:   https://t.me/K0_MG
+  Instagram:  https://instagram.com/z0_28
+  TikTok:     https://www.tiktok.com/@zt_tb
+  GitHub:     https://github.com/zt-tb

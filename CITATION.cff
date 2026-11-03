@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Newsora"
+abstract: "Telegram bot that reads news channels with your account, translates the posts to Arabic, removes duplicates and publishes them to your channel."
+type: software
+version: 1.0.0
+date-released: 2026-11-03
+authors:
+  - family-names: "Al-Taie"
+    given-names: "Mohsen"
+    alias: "K0_MG"
+repository-code: "https://github.com/zt-tb/Newsora"
+url: "https://github.com/zt-tb/Newsora"
+keywords:
+  - telegram-bot
+  - news
+  - telethon
+  - kurigram
+  - python

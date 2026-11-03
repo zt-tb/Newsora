@@ -1,0 +1,6 @@
+kurigram>=2.2.26
+telethon
+deep-translator
+httpx
+qrcode[pil]
+pillow
